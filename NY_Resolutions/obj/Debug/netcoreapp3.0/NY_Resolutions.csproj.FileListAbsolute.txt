@@ -1,0 +1,10 @@
+C:\Users\Sirje\Desktop\NY_Resolutions\NY_Resolutions\bin\Debug\netcoreapp3.0\NY_Resolutions.exe
+C:\Users\Sirje\Desktop\NY_Resolutions\NY_Resolutions\bin\Debug\netcoreapp3.0\NY_Resolutions.deps.json
+C:\Users\Sirje\Desktop\NY_Resolutions\NY_Resolutions\bin\Debug\netcoreapp3.0\NY_Resolutions.runtimeconfig.json
+C:\Users\Sirje\Desktop\NY_Resolutions\NY_Resolutions\bin\Debug\netcoreapp3.0\NY_Resolutions.runtimeconfig.dev.json
+C:\Users\Sirje\Desktop\NY_Resolutions\NY_Resolutions\bin\Debug\netcoreapp3.0\NY_Resolutions.dll
+C:\Users\Sirje\Desktop\NY_Resolutions\NY_Resolutions\bin\Debug\netcoreapp3.0\NY_Resolutions.pdb
+C:\Users\Sirje\Desktop\NY_Resolutions\NY_Resolutions\obj\Debug\netcoreapp3.0\NY_Resolutions.AssemblyInfoInputs.cache
+C:\Users\Sirje\Desktop\NY_Resolutions\NY_Resolutions\obj\Debug\netcoreapp3.0\NY_Resolutions.AssemblyInfo.cs
+C:\Users\Sirje\Desktop\NY_Resolutions\NY_Resolutions\obj\Debug\netcoreapp3.0\NY_Resolutions.dll
+C:\Users\Sirje\Desktop\NY_Resolutions\NY_Resolutions\obj\Debug\netcoreapp3.0\NY_Resolutions.pdb

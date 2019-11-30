@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "NY_Resolutions/1.0.0": {
+        "runtime": {
+          "NY_Resolutions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NY_Resolutions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
